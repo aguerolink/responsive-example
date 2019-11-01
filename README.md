@@ -1,6 +1,6 @@
 # Ejemplo de diseño responsive
 
-Un simple ejemplo para otorgar como base para el diseño responsivo.
+Un simple ejemplo para otorgarle ayuda a quien lo necesite como base para el diseño responsivo.
 
 ### Actualización
 
